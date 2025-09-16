@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 ¿Quién soy?
+## ¿Quién soy?
 
 Soy **recién egresado en Ingeniería de Sistemas pronto a ser titulado**, con proyectos académicos y personales que me han permitido explorar distintas áreas de la tecnología.  
 Me considero una persona **curiosa, adaptable y en constante aprendizaje**, abierta a nuevos retos profesionales.  
