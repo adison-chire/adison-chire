@@ -6,9 +6,8 @@
 
 ## 📊 ¿Quién soy?
 
-Soy **recién egresado en Ingeniería de Sistemas**, con proyectos académicos y personales que me han permitido explorar distintas áreas de la tecnología.  
+Soy **recién egresado en Ingeniería de Sistemas pronto a ser titulado**, con proyectos académicos y personales que me han permitido explorar distintas áreas de la tecnología.  
 Me considero una persona **curiosa, adaptable y en constante aprendizaje**, abierta a nuevos retos profesionales.  
-
 Actualmente estoy **formándome en el ciclo completo de Business Intelligence (BI)**: desde la limpieza y transformación de datos hasta la creación de dashboards y visualizaciones interactivas que apoyan la toma de decisiones.
 
 ---
