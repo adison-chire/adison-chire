@@ -2,11 +2,6 @@
   <img src="/images/banner-github.png" alt="Banner de Perfil" width="100%" />
 </div>
 
-<div align="center">
-  <h1>¡Hola, soy Adison Chire!</h1>
-  <p>Ingeniero de Sistemas e Informática</p>
-</div>
-
 ---
 
 ## 📊 ¿Quién soy?
@@ -29,8 +24,6 @@ Actualmente estoy **formándome en el ciclo completo de Business Intelligence (B
 ---
 
 ## Proyectos destacados
-
-Aquí te presento algunos de mis trabajos más relevantes. Cada proyecto está diseñado para mostrar mis habilidades en el manejo y la interpretación de datos.
 
 ### Proyecto: Sistema de Rutas en Huaraz
 
