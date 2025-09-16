@@ -11,7 +11,10 @@
 
 ## 📊 ¿Quién soy?
 
-Soy un profesional apasionado por transformar datos en conocimiento. Mi objetivo es utilizar el poder del **análisis de datos** para resolver problemas reales, optimizar procesos y guiar la toma de decisiones. Me especializo en el ciclo completo del análisis: desde la limpieza de datos hasta la creación de visualizaciones y el desarrollo de modelos predictivos.
+Soy **recién egresado en Ingeniería de Sistemas**, con proyectos académicos y personales que me han permitido explorar distintas áreas de la tecnología.  
+Me considero una persona **curiosa, adaptable y en constante aprendizaje**, abierta a nuevos retos profesionales.  
+
+Actualmente estoy **formándome en el ciclo completo de Business Intelligence (BI)**: desde la limpieza y transformación de datos hasta la creación de dashboards y visualizaciones interactivas que apoyan la toma de decisiones.
 
 ---
 
@@ -21,7 +24,7 @@ Soy un profesional apasionado por transformar datos en conocimiento. Mi objetivo
 | :--- | :--- |
 | **Lenguajes** | Python, JavaScript |
 | **Bases de datos** | SQL |
-| **Visualización** | Power BI |
+| **Visualización** | Power BI , Excel|
 
 ---
 
@@ -33,9 +36,9 @@ Aquí te presento algunos de mis trabajos más relevantes. Cada proyecto está d
 
 Aplicación web SIG para calcular rutas óptimas en Huaraz, considerando tráfico y cierres en tiempo real.
 
-Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL`
+Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL` `Excel`
 
-![Mi Repo](https://github.com/adison-chire/Sistema-Rutas-Huaraz.git)
+**Mi Repo**: https://github.com/adison-chire/Sistema-Rutas-Huaraz.git
 
 ---
 
