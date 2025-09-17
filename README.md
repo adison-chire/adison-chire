@@ -28,7 +28,7 @@ Actualmente estoy **formándome en el ciclo completo de Business Intelligence (B
 
 Aplicación web SIG para calcular rutas óptimas en Huaraz, considerando tráfico y cierres en tiempo real.
 
-Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL` `Excel`
+Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL` 
 
 **Mi Repo**: https://github.com/adison-chire/Sistema-Rutas-Huaraz.git
 
