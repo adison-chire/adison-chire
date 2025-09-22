@@ -31,6 +31,15 @@ Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `PostgreSQL`
 
 **Mi Repo**: https://github.com/adison-chire/Sistema-Rutas-Huaraz.git
 
+### Proyecto: Business Intelligence para Barbería
+
+Proyecto que integra datos de ventas, clientes, productos y empleados de una barbería en **SQL Server**, aplicando procesos ETL y modelado de datos para generar dashboards interactivos en **Power BI**.  
+Los reportes permiten analizar ingresos, ventas, ticket promedio, segmentación de clientes, control de inventario, rendimiento de empleados y detalle de transacciones mediante drill-through.
+
+Tecnologías principales usadas: `SQL` `Power BI`
+
+**Mi Repo**: https://github.com/adison-chire/barberia-data-analytics.git
+
 ---
 
 ### Contacto
