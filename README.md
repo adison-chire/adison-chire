@@ -6,9 +6,7 @@
 
 ## ¿Quién soy?
 
-Soy **recién egresado en Ingeniería de Sistemas pronto a ser titulado**, con proyectos académicos y personales que me han permitido explorar distintas áreas de la tecnología.  
-Me considero una persona **curiosa, adaptable y en constante aprendizaje**, abierta a nuevos retos profesionales.  
-Actualmente estoy **formándome en el ciclo completo de Business Intelligence (BI)**: desde la limpieza y transformación de datos hasta la creación de dashboards y visualizaciones interactivas que apoyan la toma de decisiones.
+Soy Ingeniero de Sistemas e Informática con especialización en Business Intelligence y análisis de datos. He trabajado en proyectos aplicando ETL en Python, modelado en PostgreSQL y SQL Server, y dashboards en Power BI que convierten datos en información útil para la toma de decisiones. Además, disfruto crear proyectos web con React, TypeScript y Tailwind CSS, lo que me ha permitido expandir mis habilidades técnicas y mantenerme en constante aprendizaje. Me considero una persona analítica, orientada a resultados y comprometida con la calidad de la información, siempre buscando aportar valor en equipos de trabajo colaborativos.
 
 ---
 
@@ -26,9 +24,10 @@ Actualmente estoy **formándome en el ciclo completo de Business Intelligence (B
 
 ### Proyecto: Sistema de Rutas en Huaraz
 
-Aplicación web SIG para calcular rutas óptimas en Huaraz, considerando tráfico y cierres en tiempo real.
+Proyecto que permite calcular y comparar 3 rutas hacia un destino, considerando distancia, tiempo estimado y nivel de congestión en tiempo real.
+Cada ruta incluye una tabla de detalles con información de cada nodo: latitud, longitud, tipo de vía, distancia, velocidad, congestión y tiempo.
 
-Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL` 
+Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `PostgreSQL` 
 
 **Mi Repo**: https://github.com/adison-chire/Sistema-Rutas-Huaraz.git
 
@@ -38,6 +37,7 @@ Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `SQL`
 
 * **LinkedIn**: https://www.linkedin.com/in/adison-chire-1603s/
 * **Correo electrónico**: adichidev03@gmail.com
+* **Portafolio**: https://adison-chire.github.io/
 
 ---
 
