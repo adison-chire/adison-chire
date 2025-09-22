@@ -51,7 +51,7 @@ El sistema permite a los clientes registrarse, iniciar sesión y reservar citas,
 
 Tecnologías principales usadas: `HTML` ` CSS` `JavaScript` `PHP 8` `MySQL`
 
-**Mi Repo**: https://github.com/adison-chire/barberia-data-analytics.git
+**Mi Repo**: https://github.com/adison-chire/reservas-barbershop.git
 
 ---
 
