@@ -31,12 +31,25 @@ Tecnologias principales usadas: `Python` `HTML` `CSS` `JavaScript` `PostgreSQL`
 
 **Mi Repo**: https://github.com/adison-chire/Sistema-Rutas-Huaraz.git
 
+---
+
 ### Proyecto: Business Intelligence para Barbería
 
 Proyecto que integra datos de ventas, clientes, productos y empleados de una barbería en **SQL Server**, aplicando procesos ETL y modelado de datos para generar dashboards interactivos en **Power BI**.  
 Los reportes permiten analizar ingresos, ventas, ticket promedio, segmentación de clientes, control de inventario, rendimiento de empleados y detalle de transacciones mediante drill-through.
 
 Tecnologías principales usadas: `SQL` `Power BI`
+
+**Mi Repo**: https://github.com/adison-chire/barberia-data-analytics.git
+
+---
+
+### Proyecto: Barbería TOSCO – Sistema de Reservas Web
+
+Aplicación web desarrollada para gestionar reservas en **TOSCO Barber Shop**.
+El sistema permite a los clientes registrarse, iniciar sesión y reservar citas, mientras que los administradores pueden gestionar servicios, controlar citas y mantener actualizada la información de la barbería.
+
+Tecnologías principales usadas: `HTML` ` CSS` `JavaScript` `PHP 8` `MySQL`
 
 **Mi Repo**: https://github.com/adison-chire/barberia-data-analytics.git
 
