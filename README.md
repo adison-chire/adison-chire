@@ -6,7 +6,7 @@
 
 ## ¿Quién soy?
 
-Soy Ingeniero de Sistemas e Informática con especialización en Business Intelligence y análisis de datos. He trabajado en proyectos aplicando ETL en Python, modelado en PostgreSQL y SQL Server, y dashboards en Power BI que convierten datos en información útil para la toma de decisiones. Además, disfruto crear proyectos web con React, TypeScript y Tailwind CSS, lo que me ha permitido expandir mis habilidades técnicas y mantenerme en constante aprendizaje. Me considero una persona analítica, orientada a resultados y comprometida con la calidad de la información, siempre buscando aportar valor en equipos de trabajo colaborativos.
+Soy Ingeniero de Sistemas e Informática con experiencia en estrategia de datos y análisis de datos, y una sólida orientación a la estrategia y calidad de datos. Me especializo en procesos ETL con Python y modelado en SQL Server y PostgreSQL para construir soluciones de datos robustas. Mi trabajo se centra en garantizar la calidad y el entendimiento unificado de los datos para la toma de decisiones Data Driven. Con experiencia coordinando con stakeholders y creando soluciones de autoservicio como dashboards en Power BI, busco impulsar una cultura de datos eficiente y segura.
 
 ---
 
